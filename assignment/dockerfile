@@ -1,0 +1,3 @@
+FROM node:alpine
+COPY . /assignment
+CMD  /assignment/wad.js
